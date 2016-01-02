@@ -22,3 +22,4 @@ public class Problem1154 {
 		System.out.printf("%.2f\n", media);
 	}
 }
+	
